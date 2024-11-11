@@ -1,20 +1,6 @@
-NBA Fatigue Analysis
+#NBA Fatigue Analysis
 
 This project analyzes NBA game data to evaluate player fatigue and performance trends, with the goal of understanding the impact of game schedules on player efficiency. It includes preprocessing, exploratory data analysis (EDA), feature engineering, and potential predictive modeling for player fatigue based on in-game performance data.
-Project Structure
-
-nba-fatigue-analysis/
-│
-├── data/
-│   ├── raw/                       # Raw data files (game stats, player data, etc.)
-│   └── cleaned/                   # Cleaned data after preprocessing
-│
-├── scripts/                       # Python scripts for data processing and analysis
-│   ├── data_preprocessing.py      # Script for cleaning and preprocessing the raw data
-│   ├── eda_and_feature_engineering.py  # Script for EDA and feature engineering
-│   └── model_training.py          # (Future script) for training models on the processed data
-│
-└── README.md                      # This file
 
 Installation
 
